@@ -1,4 +1,4 @@
 This is new-1.txt
-Create by user2 (git102)
-on branch main
+Create by user2 (git102) ==> update this line
+on branch main ==> and this line by user1
 สร้างไฟล์นี้โดยให้มีข้อมูลหลายบรรทัด
