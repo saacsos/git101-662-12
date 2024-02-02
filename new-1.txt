@@ -1,0 +1,4 @@
+This is new-1.txt
+Create by user2 (git102)
+on branch main
+สร้างไฟล์นี้โดยให้มีข้อมูลหลายบรรทัด
